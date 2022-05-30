@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wang CHEN</h1>
 <h3 align="center">Data scientist & Full stack developer with mechanical engineering background</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wangchen9&label=Profile%20views&color=0e75b6&style=flat" alt="wangchen9" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/wangchen9/wangchen9" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wangchen9&label=Profile%20views&color=0e75b6&style=flat" alt="wangchen9" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/wangchen9/wangchen9" /> <img alt="GitHub Commit Activity (Year)" src="https://img.shields.io/github/commit-activity/y/wangchen9" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
