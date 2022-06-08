@@ -7,8 +7,6 @@
 
 - 💬 Ask me about: **anything data related**
 
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/wangchen9/)
-
 - 📄 Know about my experiences: [wangchen.dev](wangchen.dev)
 
 - ⚡ Fun fact: **I play poker**
