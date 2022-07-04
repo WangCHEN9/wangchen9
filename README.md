@@ -7,7 +7,7 @@
 
 - 💬 Ask me about: **anything data related**
 
-- 📄 Know about my experiences: [wangchen.dev](wangchen.dev)
+- 📄 Know about my experiences: [wangchen.dev](https://www.wangchen.dev)
 
 - ⚡ Fun fact: **I play poker**
 
