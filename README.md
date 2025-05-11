@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wang CHEN</h1>
-<h3 align="center">Data Engineer/Scientist & Full stack developer with mechanical engineering background</h3>
+<h3 align="center">Lead Data Engineer/Architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wangchen9&label=Profile%20views&color=0e75b6&style=flat" alt="wangchen9" /> </p>
 
